@@ -1,3 +1,5 @@
+[![Twitter Badge](https://img.shields.io/badge/-@AwkPranjal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jim_gruman)](https://twitter.com/jim_gruman) [![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jim-gruman-a67779a/)](https://www.linkedin.com/in/jim-gruman-a67779a/)
+---
 ### Hi there 👋
 I'm Jim, an engineer and analyst from Chicago. My time on GitHub is mostly spent writing R and blogging at https://jimgruman.netlify.app/.
 
