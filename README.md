@@ -16,9 +16,5 @@ I'm Jim, an engineer and analyst from Chicago. My time on GitHub is mostly spent
 - :sunrise_over_mountains: Backpacking, working with youth
 - :airplane: Travel
 
-### 🌱 I’m currently learning 
-- #TidyTuesday data visualization
-
-### 📫 How to reach me: 
-- Twitter: https://twitter.com/jim_gruman/
-- LinkedIn: https://www.linkedin.com/in/jim-gruman-a67779a/
+### 🌱 In my free time, I'm currently working on
+- Mentoring with the [R for Data Science](https://www.rfordatasci.com/) Online Learning Community
