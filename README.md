@@ -5,6 +5,7 @@ I'm Jim, an engineer and analyst from Chicago. My time on GitHub is mostly spent
 
 ### 🔭 I’m currently working on 
 - Building an analytics community of practice
+- Machine learning operations (MLOps)
 
 ### :moneybag: Things I do for money
 - Statistically characterize IoT heavy machinery vehicle data 
