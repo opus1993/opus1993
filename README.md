@@ -19,3 +19,5 @@ I'm Jim, an engineer and analyst from Chicago. My time on GitHub is mostly spent
 
 ### 🌱 In my free time, I'm currently working on
 - Mentoring with the [R for Data Science](https://www.rfordatasci.com/) Online Learning Community
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/68008050/activity-summary/d82bb6e1a420488769a3a51e12788f4c3c2b55a0'></iframe>
