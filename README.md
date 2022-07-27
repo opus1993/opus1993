@@ -1,21 +1,46 @@
-[![Twitter Badge](https://img.shields.io/badge/-@jim_gruman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jim_gruman)](https://twitter.com/jim_gruman) [![Linkedin Badge](https://img.shields.io/badge/-jim_gruman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jim-gruman-msba-a67779a/)](https://www.linkedin.com/in/jim-gruman-msba-a67779a/)
----
-### Hi there 👋
-I'm Jim, an engineer and analyst from Chicago. My time on GitHub is mostly spent writing R and blogging at https://jimgruman.netlify.app/.
 
-### 🔭 I’m currently working on 
-- Building an analytics community of practice
-- Machine learning operations (MLOps)
+Hi there 👋 I’m Jim
 
-### :moneybag: Things I do for money
-- Statistically characterize IoT heavy machinery vehicle data 
-- Build tools in Azure for engineers
+<img src="images/CoverPhoto.jpg" style="width:50.0%" />
 
-### :rocket: Other inspirations
-- :bike: Cycling
-- :books: History
-- :sunrise_over_mountains: Backpacking, working with youth
-- :airplane: Travel
+I am an engineer and analyst living and working in the Chicago area.
 
-### 🌱 In my free time, I'm currently working on
-- Mentoring with the [R for Data Science](https://www.rfordatasci.com/) Online Learning Community
+🔭 I’m currently working on
+
+-   Building a global analytics community of practice
+-   Machine learning operations (MLOps)
+
+💰 Things I do for money
+
+-   Statistically characterize heavy machinery IoT vehicle data
+-   Build data tools in Azure and Databricks
+-   Development operations
+-   Developer advocacy
+
+🚀 Other inspirations
+
+🚲 Cycling
+
+📚 History
+
+🌄 Backpacking, working with youth
+
+✈️ Travel
+
+🌱 In my free time, I’m currently working on
+
+-   Mentoring with the [R for Data
+    Science](https://www.rfordatasci.com/) Online Learning Community
+-   Scouting
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- badges: start -->
+<!-- badges: end -->
+
+Find me around the web 🌎 at:
+
+-   Learning in public on [Twitter](https://twitter.com/jim_gruman) or
+    my [Netlify blog](https://jimgruman.netlify.app/) 📹 ✍🏾
+-   Sharing updates on
+    [LinkedIn](https://www.linkedin.com/in/jim-gruman-%F0%9F%93%88msba-a67779a/)
+    💼
