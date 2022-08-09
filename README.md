@@ -1,23 +1,15 @@
 
-Hi there 👋 I’m Jim
+## Hi there 👋 I’m Jim and I work as a Platform / ML / Data / DevOps / Mechanical Engineer
 
 <img src="images/CoverPhoto.jpg" style="width:50.0%" />
-
-I am an engineer and analyst living and working in the Chicago area.
 
 🔭 I’m currently working on
 
 -   Building a global analytics community of practice
--   Machine learning operations (MLOps)
+-   Building out tools, infrastructure, and applications for the Machine
+    Learning platform teams at CNH Industrial
 
-💰 Things I do for money
-
--   Statistically characterize heavy machinery IoT vehicle data
--   Build data tools in Azure and Databricks
--   Development operations
--   Developer advocacy
-
-🚀 Other inspirations
+🚀 In my free time I love
 
 🚲 Cycling
 
@@ -27,11 +19,10 @@ I am an engineer and analyst living and working in the Chicago area.
 
 ✈️ Travel
 
-🌱 In my free time, I’m currently working on
+🌱 Mentoring with the [R for Data Science](https://www.rfordatasci.com/)
+Online Learning Community
 
--   Mentoring with the [R for Data
-    Science](https://www.rfordatasci.com/) Online Learning Community
--   Scouting
+🔥 Scouting
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
