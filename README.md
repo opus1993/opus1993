@@ -3,26 +3,29 @@
 
 <img src="images/CoverPhoto.jpg" style="width:50.0%" />
 
-🔭 I’m currently working on
+### 🔭 I’m currently working on
 
 -   Building a global analytics community of practice
 -   Building out tools, infrastructure, and applications for the Machine
     Learning platform teams at CNH Industrial
 
-🚀 In my free time I love
+### 🤔 I’m currently thinking about 💡
 
-🚲 Cycling
+-   How companies develop & run world-class ML systems (Full Stack Deep
+    Learning)
+-   How to develop robust production level pipelines using Azure,
+    Docker, Kubernetes, and MLFlow
+-   How to keep growing as an effective engineer in R, Python, & SQL
 
-📚 History
+### 🚀 In my free time I love
 
-🌄 Backpacking, working with youth
-
-✈️ Travel
-
-🌱 Mentoring with the [R for Data Science](https://www.rfordatasci.com/)
-Online Learning Community
-
-🔥 Scouting
+-   🚲 Cycling
+-   📚 History
+-   🌄 Backpacking
+-   ✈️ Travel
+-   🌱 Mentoring with the [R for Data
+    Science](https://www.rfordatasci.com/) Online Learning Community
+-   🔥 Scouting
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
