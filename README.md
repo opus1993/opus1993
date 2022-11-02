@@ -38,3 +38,4 @@ Find me around the web 🌎 at:
 -   Sharing updates on
     [LinkedIn](https://www.linkedin.com/in/jim-gruman-%F0%9F%93%88msba-a67779a/)
     💼
+<a rel="me" href="https://fosstodon.org/@jimgruman">Mastodon</a>
